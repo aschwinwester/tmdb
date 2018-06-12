@@ -9,6 +9,8 @@ import (
 	"encoding/json"
 
 )
+// Represents a server object
+// server can be started using server.Startup()
 type Server struct {
 	MovieRepository *repository.MovieRepository
 }
