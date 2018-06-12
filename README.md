@@ -10,3 +10,9 @@ It uses basic stuff.
 * methods
 * http routing and writing
 * reading file
+
+Goal is to search character in a movie csv file containing 5000 movies with their main actors.
+
+Use a REST API to search in a repostitory. Repository reads CSV.
+
+NO EXTERNAL dependencies needed.
